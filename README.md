@@ -1,4 +1,4 @@
-solutions to binary tree exercises
+# Solutions to binary tree exercises
 
 0. Write a function that creates a binary tree node
 
